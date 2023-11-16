@@ -1,2 +1,2 @@
 # temporizador-amizades
-Visualizar há quanto tempo não vejo os meus amigos para que eu possa dar a devida atenção a quem precisa
+Um jeito de isualizar há quanto tempo não vejo os meus amigos e estudar programação
